@@ -1,0 +1,16 @@
+body{
+  text-align: center;
+  font-size: 35px;
+  color: red;
+}
+.abcd{
+  font-size: 28px;
+  display: inline-block;
+  margin-left: 100px;
+}
+.a{
+ color: blue;
+}
+.b{
+  color: yellow;
+}
